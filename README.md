@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Mex133
-- 👀 I’m interested in ... C++,Python
-- 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... C++,React,Django,Java
 
 <!---
 Mex133/Mex133 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
